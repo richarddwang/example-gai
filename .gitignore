@@ -11,3 +11,6 @@ wheels/
 
 # Langchain-generated files
 .langgraph_api/
+
+# Credentials
+.env
