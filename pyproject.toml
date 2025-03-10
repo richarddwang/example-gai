@@ -1,5 +1,5 @@
 [project]
-name = "gai"
+name = "rcsa"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,6 +8,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "langchain>=0.3.19",
     "langchain-openai>=0.3.6",
+    "langfuse>=2.59.7",
     "langgraph>=0.2.74",
     "langgraph-cli[inmem]>=0.1.73",
 ]

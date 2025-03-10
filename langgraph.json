@@ -3,7 +3,7 @@
         "."
     ],
     "graphs": {
-        "agent": "./summary_agent/agent.py:app"
+        "agent": "./rcsa/summarizer/graph.py:app"
     },
     "env": ".env"
 }
